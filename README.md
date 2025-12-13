@@ -68,7 +68,6 @@ Version control with Git
 Structuring production-level ML projects
 
 Future Improvements:
-
 Hyperparameter tuning
 
 Model deployment on cloud (AWS / Azure)
