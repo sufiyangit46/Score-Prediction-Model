@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ML Project.iml" filepath="$PROJECT_DIR$/.idea/ML Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Score Prediction Model.iml" filepath="$PROJECT_DIR$/.idea/Score Prediction Model.iml" />
     </modules>
   </component>
 </project>
